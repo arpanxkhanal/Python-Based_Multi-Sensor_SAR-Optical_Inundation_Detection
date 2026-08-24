@@ -1,0 +1,7 @@
+earthengine-api>=0.1.400
+geemap>=0.32.0
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.31
+Pillow>=10.0
+jupyter>=1.0
